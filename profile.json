@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+{ "firstName":"Joseph" }
+{ "lastName":"Squartino" }
+{ "displayHandle":"Lab_1"}
+
+{"posts":[ "It's my birthday!", "Can't wait for December", "Bought a new car!" ]}
+{
+  "age": 25,
+  "active": true,
+  }
+
+</body>
+</html>
